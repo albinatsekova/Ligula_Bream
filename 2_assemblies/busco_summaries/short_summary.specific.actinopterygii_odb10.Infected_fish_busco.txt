@@ -1,0 +1,19 @@
+# BUSCO version is: 5.4.5 
+# The lineage dataset is:  (Creation date: 2024-01-08, number of genomes: 26, number of BUSCOs: 3640)
+# Summarized benchmarking in BUSCO notation for file /media/main/sandbox/drozdovapb/Misc_help/Kochneva/2024_fish_Ligula/03_assembly/Infected_fish_transcripts.fasta
+# BUSCO was run in mode: euk_tran
+
+	***** Results: *****
+
+	C:88.1%[S:50.2%,D:37.9%],F:2.8%,M:9.1%,n:3640	   
+	3205	Complete BUSCOs (C)			   
+	1827	Complete and single-copy BUSCOs (S)	   
+	1378	Complete and duplicated BUSCOs (D)	   
+	103	Fragmented BUSCOs (F)			   
+	332	Missing BUSCOs (M)			   
+	3640	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.3
+	metaeuk: 6.a5d39d9
+	busco: 5.4.5
